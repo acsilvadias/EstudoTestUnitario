@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B5DECB64
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConvertMeasures", "Tests\TestConvertMeasures\TestConvertMeasures.csproj", "{40ECDB94-52D7-4298-8B6F-15AD4782BCEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOperationsMath", "Tests\TestOperationsMath\TestOperationsMath.csproj", "{60104226-895D-424F-B6B4-FA2BA97FF2DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{40ECDB94-52D7-4298-8B6F-15AD4782BCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40ECDB94-52D7-4298-8B6F-15AD4782BCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40ECDB94-52D7-4298-8B6F-15AD4782BCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60104226-895D-424F-B6B4-FA2BA97FF2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60104226-895D-424F-B6B4-FA2BA97FF2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60104226-895D-424F-B6B4-FA2BA97FF2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60104226-895D-424F-B6B4-FA2BA97FF2DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FD900754-36B9-4CD9-9E45-D2D6F26BC2E1} = {90E1F674-151A-4132-8660-74B2E3628454}
 		{40ECDB94-52D7-4298-8B6F-15AD4782BCEC} = {B5DECB64-FC27-4C3D-9E87-D886F7BE5D3C}
+		{60104226-895D-424F-B6B4-FA2BA97FF2DE} = {B5DECB64-FC27-4C3D-9E87-D886F7BE5D3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {64464918-458D-451D-9954-DD041B5A6C91}
